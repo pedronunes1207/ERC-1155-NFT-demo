@@ -1,8 +1,8 @@
 {
   "name": "nft-demo",
   "version": "0.1.0",
-  "description": "demo how to create NFT's ERC-721 and work with their additional attribute",
   "author": "pedronunes1207",
+  "description": "demo how to create NFT's ERC-721 and work with their additional attribute",
   "dependencies": {
     "babel-polyfill": "6.26.0",
     "babel-preset-env": "1.7.0",
